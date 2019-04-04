@@ -1,6 +1,9 @@
 {
     "name": "santanamic/php-picpay-sdk",
     "description": "",
+    "type": "library",
+    "minimum-stability":"dev",
+	"prefer-stable": true,
     "keywords": [
         "PicPay",
         "php",
