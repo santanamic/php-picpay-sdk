@@ -27,5 +27,8 @@
     },
     "autoload-dev": {
         "psr-4": { "PicPay\\" : "test/" }
+    },
+    "scripts": {
+        "test": "phpunit"
     }
 }
