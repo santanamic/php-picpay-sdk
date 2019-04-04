@@ -37,8 +37,6 @@ To install the bindings via `composer`:
 $ composer require santanamic/php-picpay-sdk
 ```
 
-Then run `composer install`
-
 ## Tests
 
 To run the unit tests:
