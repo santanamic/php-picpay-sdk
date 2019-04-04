@@ -42,8 +42,7 @@ $ composer require santanamic/php-picpay-sdk
 To run the unit tests:
 
 ```
-composer install
-./vendor/bin/phpunit
+composer test
 ```
 
 ## Getting Started
