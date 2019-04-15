@@ -72,11 +72,11 @@ class Configuration
     protected $host = 'https://appws.picpay.com/ecommerce/public/';
 
     /**
-     * User agent of the HTTP request, set to "PHP-Swagger" by default
+     * User agent of the HTTP request, set to "PicPay-SDK" by default
      *
      * @var string
      */
-    protected $userAgent = 'Swagger-Codegen/1.0.0/php';
+    protected $userAgent = 'PicPay-SDK/1.0.0/php';
 
     /**
      * Debug switch (default set to false)
